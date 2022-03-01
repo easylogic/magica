@@ -1,6 +1,6 @@
 {
   "name": "@easylogic/magica",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Magic Method Utility Library",
   "type": "module",
   "main": "./src/index.ts",
