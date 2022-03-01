@@ -53,6 +53,11 @@ magica(LOAD('button') + DOMDIFF, ($el) => {
 emit('test');
 ```
 
+# local build 
+
+```sh
+npm run build
+```
 
 # LICENSE: MIT 
 
